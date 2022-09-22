@@ -1,4 +1,4 @@
-<p align="center"><img src="https://storyset.com/illustration/computer-login/bro/animate?share=50424" width="100"/></p>
+<p align="center"><img src="https://storyset.com/illustration/computer-login/bro#062D86FF&hide=&hide=simple" width="100"/></p>
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/WildF20" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
