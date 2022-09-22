@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning Android development
 - 📫 Reach me wildanfebrian9@gmail.com
 
----
+-
 <details>
   <summary> 🛠 &nbsp;Languages and Tools : </summary>
 
@@ -40,7 +40,7 @@
 </p>
 </details>
   
----
+-
 <details>
 <summary>🔥 &nbsp; My Stats :</summary>
   
