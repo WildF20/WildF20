@@ -1,4 +1,4 @@
-<p align="center"><img src="Computer login-bro.svg" width="200"/></p>
+<p align="center"><img src="picture.svg" width="200"/></p>
 
 ## Hi, I am [Wildan Febrian](https://wildf20.github.io) <a href="https://wildf20.github.io"></a>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/wildanfebrian)
@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning Android development
 - 📫 Reach me wildanfebrian9@gmail.com
 
---
+---
 <details>
   <summary> 🛠 &nbsp;Languages and Tools : </summary>
 
