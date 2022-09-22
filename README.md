@@ -1,6 +1,6 @@
 <p align="center"><img src="picture.svg" width="200"/></p>
 
-## Hi, I am [Wildan Febrian](https://wildf20.github.io) <a href="https://wildf20.github.io"></a>
+## Hi, I am [Wildan Febrian](https://wildf20.github.io) <a href="https://wildf20.github.io"></a> <p align="center"><img src="https://komarev.com/ghpvc/?username=WildF20&style=flat-square&color=blue" alt="">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/wildanfebrian)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://wildf20.github.io)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/WildF20)
