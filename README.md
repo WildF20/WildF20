@@ -8,7 +8,7 @@
 <a href="https://www.buymeacoffee.com/WildF20" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
-### :woman_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me :
 
 - 👋 Hi, I’m @Wildan Febrian
 - 👀 I’m interested in Mobile and Web Dev especially Backend
