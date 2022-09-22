@@ -17,6 +17,16 @@
 - 🌱 I’m currently learning js development
 - 📫 Reach me wildanfebrian9@gmail.com
 
+---
+### 🛠 &nbsp;Languages and Tools :
+
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height ="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height ="40"/>&nbsp;
+  
+</p>
+
 <!---
 WildF20/WildF20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
