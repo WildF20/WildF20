@@ -33,7 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="Figma" width="40" height ="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity3D" alt="Unity3D" width="40" height ="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender3D" alt="Blender3D" width="40" height ="40"/>&nbsp;
-  <img src="" title="" alt="" width="40" height ="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height ="40"/>&nbsp;
   
 </p>
 
