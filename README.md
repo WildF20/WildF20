@@ -15,7 +15,7 @@
 
 - 👋 Hi, I’m @Wildan Febrian
 - 👀 I’m interested in Mobile and Web Dev especially Backend
-- 🌱 I’m currently learning js development
+- 🌱 I’m currently learning Android development
 - 📫 Reach me wildanfebrian9@gmail.com
 
 ---
