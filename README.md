@@ -19,7 +19,7 @@
 - 📫 Reach me wildanfebrian9@gmail.com
 
 ---
-<detail>
+<details>
   <summary> ### 🛠 &nbsp;Languages and Tools : </summary>
 
 <p>
@@ -38,7 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender3D" alt="Blender3D" width="40" height ="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height ="40"/>&nbsp;
 </p>
-</summary>
+</details>
   
 ---
 ### 🔥 &nbsp; My Stats :
