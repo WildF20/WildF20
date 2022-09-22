@@ -21,7 +21,7 @@
 ---
 <details>
   <summary> 🛠 &nbsp;Languages and Tools : </summary>
-
+<br/>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height ="40"/>&nbsp;
@@ -43,7 +43,7 @@
 ---
 <details>
 <summary>🔥 &nbsp; My Stats :</summary>
-  
+<br/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WildF20&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WildF20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
