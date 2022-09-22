@@ -8,6 +8,8 @@
 <a href="https://www.buymeacoffee.com/WildF20" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
+---
+
 ### :man_technologist: &nbsp;About Me :
 
 - 👋 Hi, I’m @Wildan Febrian
