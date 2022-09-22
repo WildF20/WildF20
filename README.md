@@ -19,7 +19,8 @@
 - 📫 Reach me wildanfebrian9@gmail.com
 
 ---
-### 🛠 &nbsp;Languages and Tools :
+<detail>
+  <summary> ### 🛠 &nbsp;Languages and Tools : </summary>
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
@@ -37,7 +38,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender3D" alt="Blender3D" width="40" height ="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height ="40"/>&nbsp;
 </p>
-
+</summary>
+  
 ---
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WildF20&theme=dark&background=000000)](https://git.io/streak-stats)
