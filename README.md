@@ -58,7 +58,7 @@
 <a href="https://github.com/WildF20/github-readme-stats">
   <img align="center" src="https://github-readme-stats-853z-wildf20.vercel.app/api/top-langs/?username=WildF20&layout=compact&theme=vision-friendly-dark&langs_count=10"/>  
 </a>
-<a href="https://github.com/WildF20/github-readme-stats">
+<a href="https://wakatime.com/@WildF20">
   <img align="center" src="https://github-readme-stats-853z-wildf20.vercel.app/api/wakatime?username=WildF20&theme=vision-friendly-dark"/>  
 </a>
   
