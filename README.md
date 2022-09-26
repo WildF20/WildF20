@@ -44,7 +44,8 @@
 ---
 <details>
   <summary>🔥 &nbsp; My Stats :</summary>
-
+  </br>
+  
   [![Streak Stats](https://wildf20-readme-streak-stats.herokuapp.com?user=WildF20&theme=dark&background=000000)](https://git.io/streak-stats)
   
   [![Github Stats](https://github-readme-stats-853z-wildf20.vercel.app/api?username=WildF20&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/WildF20/github-readme-stats)
