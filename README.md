@@ -51,6 +51,8 @@
 
 [![WildF20's GitHub stats](https://github-readme-stats.vercel.app/api?username=WildF20&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true")](https://github.com/anuraghazra/github-readme-stats)
   
+[![WildF20's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WildF20&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 <!---
 WildF20/WildF20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
