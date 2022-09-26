@@ -49,7 +49,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WildF20&layout=compact&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true")](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WildF20&layout=compact&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WildF20&layout=compact&theme=vision-friendly-dark&count_private=true&include_all_commits=true" />
 </details>
   
 <!---
