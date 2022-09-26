@@ -1,6 +1,7 @@
 <p align="center"><img src="picture.svg" width="200"/></p>
 
-## Hi, I am [Wildan Febrian](https://wildf20.github.io) <a href="https://wildf20.github.io"></a><img src="https://komarev.com/ghpvc/?username=WildF20&style=flat-square&color=blue" alt="">
+## Hi, I am [Wildan Febrian](https://wildf20.github.io) <a href="https://wildf20.github.io"></a><img src="https://komarev.com/ghpvc/?username=WildF20&style=flat-square&color=blue" alt=""><a href="https://wakatime.com/@7a98b367-567a-4f63-b2b8-376ed9e84ac4"><img src="https://wakatime.com/badge/user/7a98b367-567a-4f63-b2b8-376ed9e84ac4.svg" alt="Total time coded since Sep 26 2022" /></a>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/wildanfebrian)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://wildf20.github.io)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/WildF20)
