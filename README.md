@@ -44,6 +44,14 @@
 <details>
 <summary>🔥 &nbsp; My Stats :</summary>
 <br/>
+
+  
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com?user=WildF20&theme=dark&background=000000"/>  
+</a>
+<a href="[https://git.io/streak-stats](https://github.com/WildF20/github-readme-stats)">
+  <img align="center" src="(https://github-readme-stats-853z-wildf20.vercel.app/api/top-langs/?username=WildF20&layout=compact&theme=vision-friendly-dark&langs_count=10"/>  
+</a>
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=WildF20&theme=dark&background=000000)](https://git.io/streak-stats)
 
