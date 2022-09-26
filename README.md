@@ -49,8 +49,15 @@
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://streak-stats.demolab.com?user=WildF20&theme=dark&background=000000"/>  
 </a>
-<a href="[https://git.io/streak-stats](https://github.com/WildF20/github-readme-stats)">
+<a href="https://github.com/WildF20/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-853z-wildf20.vercel.app/api?username=WildF20&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true"/>  
+</a>
+<br/>
+<a href="https://github.com/WildF20/github-readme-stats">
   <img align="center" src="https://github-readme-stats-853z-wildf20.vercel.app/api/top-langs/?username=WildF20&layout=compact&theme=vision-friendly-dark&langs_count=10"/>  
+</a>
+<a href="https://github.com/WildF20/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-853z-wildf20.vercel.app/api/wakatime?username=WildF20&theme=vision-friendly-dark"/>  
 </a>
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=WildF20&theme=dark&background=000000)](https://git.io/streak-stats)
