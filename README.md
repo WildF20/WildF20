@@ -1,4 +1,4 @@
-<p align="center"><img src="picture.svg" width="200"/></p>
+<p align="center"><img src="code.gif" width="200"/></p>
 
 ## Hi, I am [Wildan Febrian](https://wildf20.github.io) [![Visitor](https://komarev.com/ghpvc/?username=WildF20&style=flat-square&color=blue)](https://wildf20.github.io) &nbsp; [![wakatime](https://wakatime.com/badge/user/7a98b367-567a-4f63-b2b8-376ed9e84ac4.svg?style=flat-square)](https://wakatime.com/@7a98b367-567a-4f63-b2b8-376ed9e84ac4)
 
