@@ -10,6 +10,8 @@
 
 <a href="https://www.buymeacoffee.com/WildF20" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+[![Thropy](https://github-profile-trophy.vercel.app/?username=WildF20&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ### :man_technologist: &nbsp;About Me :
