@@ -26,7 +26,7 @@
   <summary> 🛠 &nbsp;Languages and Tools : </summary>
 <br/>
 
-### Program Language
+### Programming Languages
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height ="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height ="40"/>&nbsp;
@@ -49,19 +49,19 @@
 </p>
 <hr/>
 
-### Framework
-###### JS Framework
+### Frameworks
+###### JS Frameworks
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue JS" alt="Vue JS" width="40" height="40"/>&nbsp;
 </p>
 
-###### PHP Framework
+###### PHP Frameworks
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height ="40"/>&nbsp;
 </p>
 
-###### CSS Framework
+###### CSS Frameworks
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap 5" alt="Bootstrap 5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
