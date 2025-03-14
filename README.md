@@ -83,14 +83,8 @@
 
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
-  
-  [![Streak Stats](https://wildf20-readme-streak-stats.herokuapp.com?user=WildF20&theme=dark&background=000000)](https://git.io/streak-stats)
-  
-  [![Github Stats](https://github-readme-stats-853z-wildf20.vercel.app/api?username=WildF20&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Wildan%20Febrian%27s%20Github%20Stats%20%28Including%20Private%20Repo%29)](https://github.com/WildF20/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats-853z-wildf20.vercel.app/api/top-langs/?username=WildF20&layout=compact&theme=vision-friendly-dark&langs_count=10)](https://github.com/WildF20/github-readme-stats)
-
-  [![Wakatime](https://github-readme-stats-853z-wildf20.vercel.app/api/wakatime?username=WildF20&theme=vision-friendly-dark)](https://wakatime.com/@WildF20)
+  [![Profile Readme Development Stats](https://github.com/WildF20/WildF20/actions/workflows/waka-stat.yml/badge.svg?branch=main)](https://github.com/WildF20/WildF20/actions/workflows/waka-stat.yml)
 
 </details>
 
