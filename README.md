@@ -78,7 +78,11 @@
 ---
 <details>
   <summary>🔥 &nbsp; My Stats :</summary>
+  
   </br>
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
   
   [![Streak Stats](https://wildf20-readme-streak-stats.herokuapp.com?user=WildF20&theme=dark&background=000000)](https://git.io/streak-stats)
   
