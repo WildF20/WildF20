@@ -84,8 +84,6 @@
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 
-  [![Profile Readme Development Stats](https://github.com/WildF20/WildF20/actions/workflows/waka-stat.yml/badge.svg?branch=main)](https://github.com/WildF20/WildF20/actions/workflows/waka-stat.yml)
-
 </details>
 
 <!---
